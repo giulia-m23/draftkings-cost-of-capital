@@ -12,10 +12,6 @@ A standard cost-of-capital write-up hides its own fragility: it reports one numb
 
 Base case: **WACC 8.00%**, on an all-equity capital structure, from a risk-free rate of 0.90%, a market risk premium of 5.00% and an asset beta of 1.4186 unlevered from eight listed gaming comparables.
 
-## Screenshots
-
-`[add 2–3 screenshots: the parameter panel with the live WACC, the 3D surface, and one sensitivity grid]`
-
 ## How it works
 
 **1. Model parameters.** Six sliders, each bounded to a defensible range: risk-free rate (0.30–3.00%), market risk premium (3.0–7.0%), asset beta (0.80–2.00), debt weight (0–60%), cost of debt (1.0–8.0%), tax rate (0–35%).
